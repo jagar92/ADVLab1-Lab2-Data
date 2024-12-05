@@ -1,0 +1,29 @@
+#Ideas for project:
+
+- Stick the thermistor in a container, heat it up and use idea gas law
+
+- 
+
+
+#What Physics do I know:
+
+- Pendulum
+
+** - Oscillations (Damped and Forced)
+	- The door stopper. Measuring sound and oscilliation as well, modeling and comparing. 
+	
+	
+**- Ideal Gas Law
+	- Quart containter with a hole cut in it. Measure both pressure and temperature as one increases by either adding material or heat.
+	
+**- Drag Coefficients
+	- Dropping objects with similar/known shapes of drag coefficients, measuring their distance and solving for their drag coefficient to known values.
+
+* - Determining the frequencies of light in relation to their color
+
+- 
+	
+	
+- double slit, single slit (don't really want to do that)
+
+
